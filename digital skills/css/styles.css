@@ -50,12 +50,13 @@ box-shadow: 0px 0px 51px -3px rgba(0,0,0,0.5);
   font-family: 'Lato', sans-serif;
   font-weight:300;
   padding-top:22px;
-  font-size:18px;
+  font-size:16px;
   color:white;
 }
 .icons p{
-font-size:24px;
+font-size:14px;
 letter-spacing:8px;
+color:black;
 }
 
 .slider img{
@@ -101,7 +102,7 @@ letter-spacing:8px;
 .dark p {
   font-family: 'Lato', sans-serif;
   color:white;
-  font-size:16px;
+  font-size:14px;
   padding-top:40px;
   padding-left:30px;
 }
@@ -110,8 +111,8 @@ letter-spacing:8px;
   font-weight:300;
   color:white;
   font-size:18px;
-  padding-top:40px;
-  padding-left:30px;
+  margin-top:40px;
+  margin-left:30px;
 
   text-decoration:underline;
 }
@@ -175,7 +176,7 @@ letter-spacing:8px;
     width: 40vw;
     padding: 30px;
     background: #1c1c1d;
-    margin: 50px auto;
+    margin: 0px auto;
     
 }
 .form-style-8 h2{
@@ -305,7 +306,7 @@ background-size: cover;
   padding-left:20px;
   padding-right:20px;
   padding-top:20px;
-  font-size:16px;
+  font-size:14px;
   color:white;
 }
 
