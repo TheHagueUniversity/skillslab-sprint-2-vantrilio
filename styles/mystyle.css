@@ -107,6 +107,9 @@ figure {
 .desc p {
 		text-align:center;
 }
+.desc a {
+    color:yellow;
+}
 .icons {
 	margin-top:100px;
 }
